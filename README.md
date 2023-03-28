@@ -1,2 +1,2 @@
-# Site-de-Pizzaria
-Site de pizzaria, feito com html e estilizado com css, com as funcionalidades feitas com javascript. Não é responsivo.
+Site de pizzaria, feito do zero, apenas com o intuito de simular pedidos de compras de pizzas de todos os tamanhos e sabores possíveis, testando minhas habilidades no front-end apenas com html, css e javascript puro. Não é responsivo! 
+
